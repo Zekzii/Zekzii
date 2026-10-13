@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">I'm Zaki</h1>
 
-<!--
-**zak1dev/zak1dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Full-stack developer focused on creating modern, fast and
+  visually appealing web applications.
+</h3>
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on [zaki.dev](https://zaki.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+<p align="left">
+  <a href="https://github.com/DIT_BRUGERNAVN">
+    GitHub
+  </a>
+  |
+  <a href="https://instagram.com/DIT_INSTAGRAM">
+    Instagram
+  </a>
+</p>
+
+### Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,js,mysql,mongodb,ai,ps,python"
+       alt="Languages and tools" />
+</p>
