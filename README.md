@@ -10,8 +10,12 @@
 
 ### Connect with me:
 
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/)
+<a href="https://facebook.com/">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="32" height="32" alt="Facebook" />
+</a>
+<a href="https://instagram.com/">
+  <img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" alt="Instagram" />
+</a>
 
 ### Languages and Tools:
 
