@@ -16,8 +16,8 @@
 <a href="https://instagram.com/">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram" />
 </a>
-<a href="mailto:zaki@redefined-rp.dk">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" />
+<a href="https://www.hackerrank.com/">
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="32" height="32" alt="HackerRank" />
 </a>
 
 ### Languages and Tools:
