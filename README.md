@@ -10,11 +10,11 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://github.com/DIT_BRUGERNAVN">
+  <a href="https://github.com/zakifivem">
     GitHub
   </a>
   |
-  <a href="https://instagram.com/DIT_INSTAGRAM">
+  <a href="https://instagram.com/zakifivem">
     Instagram
   </a>
 </p>
