@@ -14,7 +14,10 @@
   <img src="https://cdn.simpleicons.org/facebook/1877F2" width="32" height="32" alt="Facebook" />
 </a>
 <a href="https://instagram.com/">
-  <img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" alt="Instagram" />
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram" />
+</a>
+<a href="mailto:zaki@redefined-rp.dk">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" />
 </a>
 
 ### Languages and Tools:
