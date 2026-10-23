@@ -6,7 +6,7 @@
 
 </div>
 
-- 🔭 I'm currently working on [zakis.dev](https://zakis.dev)
+- 🔭 I'm currently working on [emulate.dev](https://discord.gg/emulatedk)
 
 ### Connect with me:
 
